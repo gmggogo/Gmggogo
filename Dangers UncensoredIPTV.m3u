@@ -1,0 +1,17 @@
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Uncensored Movies", Cine34 (Italy)
+http://91.132.172.151:8081/live/cine34/playlist.m3u8
+
+#EXTINF:-1 group-title="Uncensored Movies", Canal+ Cinema (France)
+http://91.132.172.151:8081/live/canalcinema/playlist.m3u8
+
+#EXTINF:-1 group-title="Uncensored Movies", RTL 2 (Germany)
+http://51.210.199.35:8081/rtl2
+
+#EXTINF:-1 group-title="Uncensored Movies", Tele5 (Germany)
+http://51.210.199.35:8081/tele5
+
+#EXTINF:-1 group-title="Uncensored Movies", Horror TV
+http://51.210.199.35:8081/horror
