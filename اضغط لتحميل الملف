@@ -1,0 +1,87 @@
+#EXTM3U
+
+###### Group: Egyptian 🇪🇬
+#EXTINF:-1 tvg-name="ON E" group-title="Egyptian",ON E
+http://51.210.199.35:8081/36
+#EXTINF:-1 tvg-name="CBC" group-title="Egyptian",CBC
+http://51.210.199.35:8081/5
+#EXTINF:-1 tvg-name="MBC MASR" group-title="Egyptian",MBC MASR
+http://51.210.199.35:8081/9
+#EXTINF:-1 tvg-name="DMC" group-title="Egyptian",DMC
+http://51.210.199.35:8081/14
+#EXTINF:-1 tvg-name="Nile Drama" group-title="Egyptian",Nile Drama
+http://51.210.199.35:8081/6
+
+###### Group: MBC 🎬
+#EXTINF:-1 tvg-name="MBC 1" group-title="MBC Channels",MBC 1
+http://51.210.199.35:8081/10
+#EXTINF:-1 tvg-name="MBC 2" group-title="MBC Channels",MBC 2
+http://51.210.199.35:8081/11
+#EXTINF:-1 tvg-name="MBC Action" group-title="MBC Channels",MBC Action
+http://51.210.199.35:8081/13
+#EXTINF:-1 tvg-name="MBC Max" group-title="MBC Channels",MBC Max
+http://51.210.199.35:8081/15
+
+###### Group: Arabic Classic 🎥
+#EXTINF:-1 tvg-name="Rotana Classic" group-title="Arabic Classic",Rotana Classic
+http://51.210.199.35:8081/18
+#EXTINF:-1 tvg-name="Aflam TV" group-title="Arabic Classic",Aflam TV
+http://51.210.199.35:8081/19
+
+###### Group: Colombia 🇨🇴
+#EXTINF:-1 tvg-name="Caracol TV" group-title="Colombia",Caracol TV
+http://51.210.199.35:8081/colombia1
+#EXTINF:-1 tvg-name="RCN TV" group-title="Colombia",RCN TV
+http://51.210.199.35:8081/colombia2
+#EXTINF:-1 tvg-name="Win Sports" group-title="Colombia - Sports",Win Sports
+http://51.210.199.35:8081/colombia_sport1
+#EXTINF:-1 tvg-name="Cine Canal Colombia" group-title="Colombia - Movies",Cine Canal Colombia
+http://51.210.199.35:8081/colombia_movie1
+
+###### Group: Mexico 🇲🇽
+#EXTINF:-1 tvg-name="Las Estrellas" group-title="Mexico",Las Estrellas
+http://51.210.199.35:8081/mexico1
+#EXTINF:-1 tvg-name="Azteca Uno" group-title="Mexico",Azteca Uno
+http://51.210.199.35:8081/mexico2
+#EXTINF:-1 tvg-name="TUDN Mexico" group-title="Mexico - Sports",TUDN Mexico
+http://51.210.199.35:8081/mexico_sport1
+#EXTINF:-1 tvg-name="Cine Mexicano" group-title="Mexico - Movies",Cine Mexicano
+http://51.210.199.35:8081/mexico_movie1
+
+###### Group: USA 🇺🇸
+#EXTINF:-1 tvg-name="NBC" group-title="USA",NBC
+http://51.210.199.35:8081/usa1
+#EXTINF:-1 tvg-name="CBS" group-title="USA",CBS
+http://51.210.199.35:8081/usa2
+#EXTINF:-1 tvg-name="AMC" group-title="USA - Movies",AMC
+http://51.210.199.35:8081/usa_movie1
+#EXTINF:-1 tvg-name="Paramount Network" group-title="USA - Movies",Paramount Network
+http://51.210.199.35:8081/usa_movie2
+
+###### Group: Bein Sports ⚽
+#EXTINF:-1 tvg-name="Bein Sports 1 (Free)" group-title="Bein Sports",Bein Sports 1 (Free)
+http://51.210.199.35:8081/bein1
+#EXTINF:-1 tvg-name="Bein Sports 2 (Encrypted)" group-title="Bein Sports",Bein Sports 2 (Encrypted)
+http://51.210.199.35:8081/bein2
+#EXTINF:-1 tvg-name="Bein Sports 3 (Encrypted)" group-title="Bein Sports",Bein Sports 3 (Encrypted)
+http://51.210.199.35:8081/bein3
+
+###### Group: National Geographic 🌍
+#EXTINF:-1 tvg-name="Nat Geo Arabic" group-title="National Geographic",National Geographic Arabic
+http://51.210.199.35:8081/natgeoa
+#EXTINF:-1 tvg-name="Nat Geo English" group-title="National Geographic",National Geographic English
+http://51.210.199.35:8081/natgeoe
+#EXTINF:-1 tvg-name="Nat Geo Español" group-title="National Geographic",National Geographic Español
+http://51.210.199.35:8081/natgeoes
+
+###### Group: Music & Shaabi 🎶
+#EXTINF:-1 tvg-name="Mazzika" group-title="Music",Mazzika
+http://51.210.199.35:8081/music1
+#EXTINF:-1 tvg-name="Melody Hits" group-title="Music",Melody Hits
+http://51.210.199.35:8081/music2
+#EXTINF:-1 tvg-name="Shaabi TV" group-title="Shaabi & Old Music",Shaabi TV
+http://51.210.199.35:8081/shaabi1
+#EXTINF:-1 tvg-name="Rotana Clip" group-title="Shaabi & Old Music",Rotana Clip
+http://51.210.199.35:8081/shaabi2
+#EXTINF:-1 tvg-name="Nogoum FM TV" group-title="Shaabi & Old Music",Nogoum FM TV
+http://51.210.199.35:8081/shaabi3
