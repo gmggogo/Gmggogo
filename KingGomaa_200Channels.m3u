@@ -1,0 +1,335 @@
+#EXTM3U
+#EXTINF:-1 group-title="Egyptian", Nile Drama
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Egyptian", Al Kahera Wal Nas
+http://51.210.199.35:8081/14
+#EXTINF:-1 group-title="MBC", MBC 1
+http://95.217.196.108:1935/live/mbc1/playlist.m3u8
+#EXTINF:-1 group-title="MBC", MBC Action
+http://95.217.196.108:1935/live/mbcaction/playlist.m3u8
+#EXTINF:-1 group-title="Colombian", Caracol TV
+https://mdstrm.com/live-stream-playlist/5c8e411b2cd53f075968f8f6.m3u8
+#EXTINF:-1 group-title="Mexican", Canal Once
+https://canalonce.mx/envivo.m3u8
+#EXTINF:-1 group-title="American", ABC News
+https://abcnews.go.com/abcnews/live
+#EXTINF:-1 group-title="American", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/4322a6fefea049df90999532d1f3b22c/master.m3u8
+#EXTINF:-1 group-title="Sports", beIN Sports Xtra
+https://linear-115.frequency.stream/dist/localnow/115/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Documentary", Nat Geo (English)
+http://iptv.slynet.tv:8000/live/natgeohdeng/index.m3u8
+#EXTINF:-1 group-title="Uncensored Movies", Cine34 (Italy)
+http://91.132.172.151:8081/live/cine34/playlist.m3u8
+#EXTINF:-1 group-title="Uncensored Movies", Canal+ Cinema (France)
+http://91.132.172.151:8081/live/canalcinema/playlist.m3u8
+#EXTINF:-1 group-title="Uncensored Movies", RTL 2 (Germany)
+http://51.210.199.35:8081/rtl2
+#EXTINF:-1 group-title="Uncensored Movies", Tele5 (Germany)
+http://51.210.199.35:8081/tele5
+#EXTINF:-1 group-title="Uncensored Movies", TCM Movies
+http://95.217.196.108:1935/live/tcm/playlist.m3u8
+#EXTINF:-1 group-title="Uncensored Movies", Cult Movies
+http://51.210.199.35:8081/cultmovies
+#EXTINF:-1 group-title="Uncensored Movies", Horror TV
+http://51.210.199.35:8081/horror
+#EXTINF:-1 group-title="Extra", Channel 1
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 2
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 3
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 4
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 5
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 6
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 7
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 8
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 9
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 10
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 11
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 12
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 13
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 14
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 15
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 16
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 17
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 18
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 19
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 20
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 21
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 22
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 23
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 24
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 25
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 26
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 27
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 28
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 29
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 30
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 31
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 32
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 33
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 34
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 35
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 36
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 37
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 38
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 39
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 40
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 41
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 42
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 43
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 44
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 45
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 46
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 47
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 48
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 49
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 50
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 51
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 52
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 53
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 54
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 55
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 56
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 57
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 58
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 59
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 60
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 61
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 62
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 63
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 64
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 65
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 66
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 67
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 68
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 69
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 70
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 71
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 72
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 73
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 74
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 75
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 76
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 77
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 78
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 79
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 80
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 81
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 82
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 83
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 84
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 85
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 86
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 87
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 88
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 89
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 90
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 91
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 92
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 93
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 94
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 95
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 96
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 97
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 98
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 99
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 100
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 101
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 102
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 103
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 104
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 105
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 106
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 107
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 108
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 109
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 110
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 111
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 112
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 113
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 114
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 115
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 116
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 117
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 118
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 119
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 120
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 121
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 122
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 123
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 124
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 125
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 126
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 127
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 128
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 129
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 130
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 131
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 132
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 133
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 134
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 135
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 136
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 137
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 138
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 139
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 140
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 141
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 142
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 143
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 144
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 145
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 146
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 147
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 148
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 149
+http://51.210.199.35:8081/36
+#EXTINF:-1 group-title="Extra", Channel 150
+http://51.210.199.35:8081/36
